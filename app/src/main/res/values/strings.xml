@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Student sign</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="invalidLogin">Username or Password is incorrect. Please try again</string>
+    <string name="subjects_available">Subjects Available:</string>
+    <string name="subjects_requested">Subjects available to vote for:</string>
+    <string name="title_activity_create_request">CreateRequest</string>
+    <string-array name="subjects">
+        <!--<item>Select a subject</item>-->
+        <item>CSCI 213  Java programming</item>
+    </string-array>
+    <string-array name="subject_list">
+        <item>Subject 1</item>
+        <item>Subject 2</item>
+        <item>Subject 3</item>
+        <item>Subject 4</item>
+        <item>Subject 5</item>
+        <item>Subject 6</item>
+        <item>Subject 7</item>
+        <item>Subject 8</item>
+        <item>Subject 9</item>
+        <item>Subject 10</item>
+        <item>Subject 11</item>
+        <item>Subject 12</item>
+    </string-array>
+    <string-array name="list_of_students">
+        <item>Student 1</item>
+        <item>Student 2</item>
+        <item>Student 3</item>
+        <item>Student 4</item>
+        <item>Student 5</item>
+    </string-array>
+    <string name="title_activity_login_screen">Sign in</string>
+</resources>

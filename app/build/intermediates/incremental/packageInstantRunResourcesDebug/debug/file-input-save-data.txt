@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Apr 26 22:34:35 GST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\assets\\debug
+0.path=loginDetails.db
+0.set=ASSET
+count=1

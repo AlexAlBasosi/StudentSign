@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dd5590e66baf9c22d3fc3f2ad7802a30\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58d2670e2ece520f603345ca51644726\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d49979bd9d3a3d6efc1ca5abbb778dee\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\79d279e60416e76bc29e893eb5780daa\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\24a99dd1e95976cc5c5194d3f55700ac\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\746fde37128bdb1fa7e0bc46305593a5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c8bba72e1576c87baa42f6dbe4d89e11\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b31f9c833b9210a0ac8a329eece43ca3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c051bd112584cef8a03a1ac500cb2bc5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c024f7c5e10e3fc025466c7ae3d4aa27\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\914c5266dfc61d12cf60bb5f29ff5718\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c56a1cae6a2becf3478902b2f66dffd\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e4aefffd3c4a94bbf8a58744e91d222c\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:10:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dd5590e66baf9c22d3fc3f2ad7802a30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dd5590e66baf9c22d3fc3f2ad7802a30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58d2670e2ece520f603345ca51644726\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58d2670e2ece520f603345ca51644726\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d49979bd9d3a3d6efc1ca5abbb778dee\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d49979bd9d3a3d6efc1ca5abbb778dee\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\79d279e60416e76bc29e893eb5780daa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\79d279e60416e76bc29e893eb5780daa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\24a99dd1e95976cc5c5194d3f55700ac\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\24a99dd1e95976cc5c5194d3f55700ac\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\746fde37128bdb1fa7e0bc46305593a5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\746fde37128bdb1fa7e0bc46305593a5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c8bba72e1576c87baa42f6dbe4d89e11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c8bba72e1576c87baa42f6dbe4d89e11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b31f9c833b9210a0ac8a329eece43ca3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b31f9c833b9210a0ac8a329eece43ca3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c051bd112584cef8a03a1ac500cb2bc5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c051bd112584cef8a03a1ac500cb2bc5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c024f7c5e10e3fc025466c7ae3d4aa27\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c024f7c5e10e3fc025466c7ae3d4aa27\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\914c5266dfc61d12cf60bb5f29ff5718\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\914c5266dfc61d12cf60bb5f29ff5718\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c56a1cae6a2becf3478902b2f66dffd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c56a1cae6a2becf3478902b2f66dffd\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e4aefffd3c4a94bbf8a58744e91d222c\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e4aefffd3c4a94bbf8a58744e91d222c\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:16:9-52
+activity#com.ethandsouza2gmail.javafinalproj.loginPage
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:17:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.ethandsouza2gmail.javafinalproj.homeScreen
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:24:9-48
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:24:19-45
+activity#com.ethandsouza2gmail.javafinalproj.CreateRequest
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.ethandsouza2gmail.javafinalproj.existingRequest
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:26:9-53
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:26:19-50
+activity#com.ethandsouza2gmail.javafinalproj.facultyScreen
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.ethandsouza2gmail.javafinalproj.registrarScreen
+ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:28:9-62
+	android:name
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml:28:19-50
+uses-sdk
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dd5590e66baf9c22d3fc3f2ad7802a30\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dd5590e66baf9c22d3fc3f2ad7802a30\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58d2670e2ece520f603345ca51644726\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\58d2670e2ece520f603345ca51644726\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d49979bd9d3a3d6efc1ca5abbb778dee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d49979bd9d3a3d6efc1ca5abbb778dee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\79d279e60416e76bc29e893eb5780daa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\79d279e60416e76bc29e893eb5780daa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\24a99dd1e95976cc5c5194d3f55700ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\24a99dd1e95976cc5c5194d3f55700ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\746fde37128bdb1fa7e0bc46305593a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\746fde37128bdb1fa7e0bc46305593a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c8bba72e1576c87baa42f6dbe4d89e11\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c8bba72e1576c87baa42f6dbe4d89e11\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b31f9c833b9210a0ac8a329eece43ca3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b31f9c833b9210a0ac8a329eece43ca3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c051bd112584cef8a03a1ac500cb2bc5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c051bd112584cef8a03a1ac500cb2bc5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c024f7c5e10e3fc025466c7ae3d4aa27\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c024f7c5e10e3fc025466c7ae3d4aa27\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\914c5266dfc61d12cf60bb5f29ff5718\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\914c5266dfc61d12cf60bb5f29ff5718\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c56a1cae6a2becf3478902b2f66dffd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c56a1cae6a2becf3478902b2f66dffd\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e4aefffd3c4a94bbf8a58744e91d222c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e4aefffd3c4a94bbf8a58744e91d222c\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ethan Dsouza\Documents\UOWD\Spring 2018\CSCI 213\FinalProject\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dd5590e66baf9c22d3fc3f2ad7802a30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dd5590e66baf9c22d3fc3f2ad7802a30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d49979bd9d3a3d6efc1ca5abbb778dee\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d49979bd9d3a3d6efc1ca5abbb778dee\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\79d279e60416e76bc29e893eb5780daa\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\79d279e60416e76bc29e893eb5780daa\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\24a99dd1e95976cc5c5194d3f55700ac\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\24a99dd1e95976cc5c5194d3f55700ac\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\746fde37128bdb1fa7e0bc46305593a5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\746fde37128bdb1fa7e0bc46305593a5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c8bba72e1576c87baa42f6dbe4d89e11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c8bba72e1576c87baa42f6dbe4d89e11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b31f9c833b9210a0ac8a329eece43ca3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b31f9c833b9210a0ac8a329eece43ca3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c051bd112584cef8a03a1ac500cb2bc5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\c051bd112584cef8a03a1ac500cb2bc5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c024f7c5e10e3fc025466c7ae3d4aa27\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c024f7c5e10e3fc025466c7ae3d4aa27\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\914c5266dfc61d12cf60bb5f29ff5718\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\914c5266dfc61d12cf60bb5f29ff5718\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c56a1cae6a2becf3478902b2f66dffd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8c56a1cae6a2becf3478902b2f66dffd\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\04e4e959ad72be4556c1f6dd188bb062\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e4aefffd3c4a94bbf8a58744e91d222c\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e4aefffd3c4a94bbf8a58744e91d222c\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ethan Dsouza\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e4aefffd3c4a94bbf8a58744e91d222c\AndroidManifest.xml:26:13-58

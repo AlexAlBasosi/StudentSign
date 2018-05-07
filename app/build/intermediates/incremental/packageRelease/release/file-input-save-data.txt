@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Apr 15 12:17:39 GST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

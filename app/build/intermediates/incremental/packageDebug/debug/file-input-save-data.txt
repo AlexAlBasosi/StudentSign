@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Sun Apr 29 13:42:13 GST 2018
+2.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1268
+5.set=DEX
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1269
+2.set=DEX
+1.path=loginDetails.db
+4.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1266
+count=7
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1267
+4.set=DEX
+3.path=classes.dex
+6.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1265
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+6.set=DEX
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=classes.dex
+0.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1270
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=classes.dex
+1.base=C\:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=DEX
