@@ -1,10 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mk\\values-mk.xml",
+            "outputFile": "/Users/alexanderalbasosi/Downloads/FinalProject/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ethan Dsouza\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\dd5590e66baf9c22d3fc3f2ad7802a30\\res\\values-mk\\values-mk.xml",
+                    "source": "/Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/90fe03b12d3af492de4090a1ae7d54db/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,286,390,498,584,689,808,891,973,1060,1166,1273,1374,1481,1592,1696,1794,1878",
+                        "endColumns": "107,122,103,107,85,104,118,82,81,86,105,106,100,106,110,103,97,83,100",
+                        "endOffsets": "158,281,385,493,579,684,803,886,968,1055,1161,1268,1369,1476,1587,1691,1789,1873,1974"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/alexanderalbasosi/Downloads/FinalProject/C:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "/Users/alexanderalbasosi/Downloads/FinalProject/C:\\Users\\Ethan Dsouza\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\dd5590e66baf9c22d3fc3f2ad7802a30\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

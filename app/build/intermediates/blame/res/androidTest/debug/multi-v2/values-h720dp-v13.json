@@ -1,10 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "/Users/alexanderalbasosi/Downloads/FinalProject/C:\\Users\\Ethan Dsouza\\Documents\\UOWD\\Spring 2018\\CSCI 213\\FinalProject\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ethan Dsouza\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\dd5590e66baf9c22d3fc3f2ad7802a30\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "/Users/alexanderalbasosi/Downloads/FinalProject/C:\\Users\\Ethan Dsouza\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\dd5590e66baf9c22d3fc3f2ad7802a30\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/alexanderalbasosi/Downloads/FinalProject/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/90fe03b12d3af492de4090a1ae7d54db/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
