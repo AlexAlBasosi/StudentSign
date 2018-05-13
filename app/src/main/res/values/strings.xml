@@ -19,8 +19,17 @@
     <string name="subjects_requested">Subjects available to vote for:</string>
     <string name="title_activity_create_request">CreateRequest</string>
     <string-array name="subjects">
-        <!--<item>Select a subject</item>-->
-        <item>CSCI 213  Java programming</item>
+        <item>Select a subject</item>
+        <item>CSCI 213: Java Programming and Applications</item>
+        <item>CSCI 319: Distributed Systems and Cloud Computing</item>
+        <item>CSIT 127: Networks and Communications</item>
+        <item>CSIT 114: Systems Analysis and Design</item>
+        <item>CSCI 103: Algorithims and problem solving</item>
+        <item>CSCI 203: Algorithims and Data Structures</item>
+        <item>CSCI 222: Systems Development</item>
+        <item>CSCI 204: Object and Generic C++</item>
+        <item>CSCI 131: Introduction to Computer Systems</item>
+        <item>CSCI 124: Applied Programming</item>
     </string-array>
     <string-array name="subject_list">
         <item>Subject 1</item>

@@ -1,11 +1,12 @@
 package com.ethandsouza2gmail.javafinalproj;
 
-import android.content.*;
-import android.support.v7.app.AppCompatActivity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.*;
-import android.database.sqlite.*;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -90,6 +91,15 @@ public class loginPage extends AppCompatActivity {
             password.setText("");
             invalidLogin.setVisibility(View.VISIBLE);
         }
+    }
+
+    @Override
+    protected void onResume()
+    {
+        super.onResume();
+        username.setText("");
+        password.setText("");
+        invalidLogin.setVisibility(View.INVISIBLE);
     }
 
     public void onDestroy()

@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/efd08ab6e4da47aa1433cc7481c5c5ce/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:design:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/93e57f8e99a0f9052d4c8496d8412902/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/90fe03b12d3af492de4090a1ae7d54db/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cb4da5a4daa4ce7c9c304f18248415cc/AndroidManifest.xml:2:1-11:12
@@ -18,20 +19,20 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alexanderalba
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1d44d74936afc84a2d65b26cc649500/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/44afc0c396679c48fbf4eca20de2c6bf/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9f445007f50234806dcf027832f4c509/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:3:5-50
 		INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:2:11-69
@@ -47,8 +48,14 @@ uses-permission#android.permission.READ_CONTACTS
 ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:8:5-72
 	android:name
 		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:9:22-64
 application
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:10:5-29:19
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:11:5-30:19
+MERGED from [com.android.volley:volley:1.0.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/efd08ab6e4da47aa1433cc7481c5c5ce/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/efd08ab6e4da47aa1433cc7481c5c5ce/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/93e57f8e99a0f9052d4c8496d8412902/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/93e57f8e99a0f9052d4c8496d8412902/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/90fe03b12d3af492de4090a1ae7d54db/AndroidManifest.xml:25:5-29:19
@@ -78,55 +85,57 @@ MERGED from [com.android.support:support-compat:26.1.0] /Users/alexanderalbasosi
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9f445007f50234806dcf027832f4c509/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/9f445007f50234806dcf027832f4c509/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:16:9-52
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:17:9-52
 activity#com.ethandsouza2gmail.javafinalproj.loginPage
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:17:9-23:20
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:17:19-44
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:18:19-44
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:22:27-74
 activity#com.ethandsouza2gmail.javafinalproj.homeScreen
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:24:9-48
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:25:9-48
 	android:name
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:24:19-45
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:25:19-45
 activity#com.ethandsouza2gmail.javafinalproj.CreateRequest
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:25:9-51
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:26:9-51
 	android:name
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:25:19-48
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:26:19-48
 activity#com.ethandsouza2gmail.javafinalproj.existingRequest
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:26:9-53
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:27:9-53
 	android:name
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:26:19-50
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:27:19-50
 activity#com.ethandsouza2gmail.javafinalproj.facultyScreen
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:27:9-51
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:28:9-51
 	android:name
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:27:19-48
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:28:19-48
 activity#com.ethandsouza2gmail.javafinalproj.registrarScreen
-ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:28:9-62
+ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:29:9-62
 	android:name
-		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:28:19-50
+		ADDED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml:29:19-50
 uses-sdk
 INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml
 INJECTED from /Users/alexanderalbasosi/Downloads/FinalProject/app/src/main/AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.0.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/efd08ab6e4da47aa1433cc7481c5c5ce/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/efd08ab6e4da47aa1433cc7481c5c5ce/AndroidManifest.xml:7:5-43
 MERGED from [com.android.support:design:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/93e57f8e99a0f9052d4c8496d8412902/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/93e57f8e99a0f9052d4c8496d8412902/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alexanderalbasosi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/90fe03b12d3af492de4090a1ae7d54db/AndroidManifest.xml:21:5-23:78
