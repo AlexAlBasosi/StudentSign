@@ -23,27 +23,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/CreateRequest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$1.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$2.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1$3.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$1.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1$2.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest$1.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/existingRequest.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ethandsouza2gmail/javafinalproj/existingRequest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/CreateRequest.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/existingRequest.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/23/com/ethandsouza2gmail/javafinalproj/existingRequest.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_volley_volley_1_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_volley_volley_1_0_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/CreateRequest.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/CreateRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/existingRequest.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/existingRequest.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -159,10 +147,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loginHelper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loginHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/loginHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
+            <state relative-caret-position="-323">
               <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
@@ -181,11 +169,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="existingRequest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="existingRequest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/existingRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="182" column="8" lean-forward="false" selection-start-line="182" selection-start-column="8" selection-end-line="186" selection-end-column="9" />
+            <state relative-caret-position="338">
+              <caret line="183" column="26" lean-forward="false" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
               <folding>
                 <element signature="e#4817#4833#0" expanded="true" />
                 <element signature="e#6452#6468#0" expanded="true" />
@@ -198,7 +186,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/CreateRequest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1216">
-              <caret line="141" column="62" lean-forward="true" selection-start-line="141" selection-start-column="62" selection-end-line="141" selection-end-column="62" />
+              <caret line="141" column="62" lean-forward="false" selection-start-line="141" selection-start-column="62" selection-end-line="141" selection-end-column="62" />
               <folding>
                 <element signature="e#1104#6569#0" expanded="true" />
                 <element signature="e#2125#5658#0" expanded="true" />
@@ -2107,8 +2095,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/loginPage.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_create_request.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/existingRequest.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/CreateRequest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/existingRequest.java" />
       </list>
     </option>
   </component>
@@ -2487,7 +2475,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1526389178707" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1526389701700" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2534,7 +2522,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1526389178707" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1526389701700" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3194,21 +3182,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/existingRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="182" column="8" lean-forward="false" selection-start-line="182" selection-start-column="8" selection-end-line="186" selection-end-column="9" />
-          <folding>
-            <element signature="e#4817#4833#0" expanded="true" />
-            <element signature="e#6452#6468#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/CreateRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1216">
-          <caret line="141" column="62" lean-forward="true" selection-start-line="141" selection-start-column="62" selection-end-line="141" selection-end-column="62" />
+          <caret line="141" column="62" lean-forward="false" selection-start-line="141" selection-start-column="62" selection-end-line="141" selection-end-column="62" />
           <folding>
             <element signature="e#1104#6569#0" expanded="true" />
             <element signature="e#2125#5658#0" expanded="true" />
@@ -3224,9 +3201,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/loginHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
+        <state relative-caret-position="-323">
           <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ethandsouza2gmail/javafinalproj/existingRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="183" column="26" lean-forward="false" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
+          <folding>
+            <element signature="e#4817#4833#0" expanded="true" />
+            <element signature="e#6452#6468#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
