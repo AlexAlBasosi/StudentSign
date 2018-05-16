@@ -65,22 +65,16 @@ public class loginPage extends AppCompatActivity {
 
     private void validate(String enteredUser, String enteredPass)
     {
-        if (enteredUser.equals("ethan") && enteredPass.equals("pass"))
-        {
+        if (enteredUser.equals("ethan") && enteredPass.equals("pass")) {
             Intent logIn = new Intent(loginPage.this, homeScreen.class);
             startActivity(logIn);
         }
-        else if(db.validateUser(enteredUser,enteredPass) == 1)
-        {
-            Intent logIn = new Intent(loginPage.this, homeScreen.class);
-            startActivity(logIn);
-        }
-        else if (db.validateUser(enteredUser,enteredPass) == 2)
+        else if (enteredUser.equals("faculty") && enteredPass.equals("pass"))
         {
             Intent logIn = new Intent(loginPage.this, facultyScreen.class);
             startActivity(logIn);
         }
-        else if (db.validateUser(enteredUser,enteredPass) == 3)
+        else if (enteredUser.equals("registrar") && enteredPass.equals("pass"))
         {
             Intent logIn = new Intent(loginPage.this, registrarScreen.class);
             startActivity(logIn);

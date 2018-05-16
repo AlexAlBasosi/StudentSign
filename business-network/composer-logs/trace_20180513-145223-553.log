@@ -1,0 +1,1 @@
+2018-05-12T10:53:28.617Z ERROR   HLFConnectionManager    :fabric-client()          [ChannelEventHub.js]: _checkConnection - connection is not in the ready state. state: UNKNOWN_STATE {}$
